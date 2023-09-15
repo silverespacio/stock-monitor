@@ -1,6 +1,6 @@
 ---
 version: '3.9'
-name: redpanda-transacciones
+name: redpanda-ksqlfp
 networks:
   redpanda_network:
     driver: bridge
